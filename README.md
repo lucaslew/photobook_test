@@ -19,7 +19,13 @@ Javascript - React.js Framework
 
 Steps:
 
-Download this repo, which consists of two directories
+Download this repo.
+
+```
+git clone https://github.com/lucaslew/photobook_test.git photobook_test
+```
+
+Repo consists of two directories
 
 ```
 commcal - PHP
