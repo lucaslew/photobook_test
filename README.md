@@ -50,6 +50,26 @@ cd commcal
 vendor/bin/phpunit tests/Unit/CommisionTest.php
 ```
 
+## Details
+
+# ReactJS 
+Frontend code are under 'commisioncalculator/src'
+```
+App.css - CSS for the app
+App.jsx - Component for index page
+CommisionReport.jsx - Component for the commision report
+ErrorMessage.jsx - Component for error message
+index.js - App's index page
+```
+
+# Laravel 
+Serves the application's API endpoint. Code are under 'commcal'
+```
+public - contains the compiled ReactJS frontend code
+routes/api.php - speficy the route to the CommisionController controller
+app/Http/Controllers/CommisionController.php - Controllers to accept API request
+app/Classes/CommisionClass.php - Class for Commision object and provide a method 'calculateComission' to calculate commision.
+```
 
 ## Authors
 
