@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 You will need to have two components below to run this project.
 
 ```
-PHP - Laravel Framework
+PHP - Laravel Framework, Composer
 Javascript - React.js Framework
 ```
 
@@ -29,7 +29,6 @@ Repo consists of two directories
 
 ```
 commcal - PHP
-composer - PHP
 commisioncalculator - ReactJs
 ```
 
