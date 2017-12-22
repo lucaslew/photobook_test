@@ -29,12 +29,16 @@ Repo consists of two directories
 
 ```
 commcal - PHP
+composer - PHP
 commisioncalculator - ReactJs
 ```
 
-Commcal (PHP) already contains the compiled version of ReactJS. So just need to navigate to commcal directory and run
+Commcal (PHP) already contains the compiled version of ReactJS. Run the app as below
 
 ```
+cd photobook_test
+cd commcal
+composer install
 php artisan serve
 
 Navigate to: http://localhost:8000/index.html
