@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will need to have two components below to run this project.
+You will need to have components below to run this project.
 
 ```
 PHP - Laravel Framework, Composer
