@@ -22,7 +22,7 @@ Steps:
 Download this repo.
 
 ```
-git clone https://github.com/lucaslew/photobook_test.git photobook_test
+git clone https://github.com/lucaslew/photobook_test.git react_comission
 ```
 
 Repo consists of two directories
